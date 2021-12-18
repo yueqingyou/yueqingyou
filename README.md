@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm yueqingyou</h1>
+<h1 align="center">Hi, man 👋, I'm yueqingyou</h1>
 <h3 align="center">Now a student studying programming in China</h3>
 
 - 🌱 I’m currently learning **Python, MatLab, Vue**
