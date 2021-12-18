@@ -4,12 +4,15 @@
 - 🌱 I’m currently learning **Python, MatLab, Vue**
 
 - 👨‍💻 All of my projects are available at
-[yueqingyou's repositories](https://github.com/yueqingyou?tab=repositories)
+
+**[yueqingyou's repositories](https://github.com/yueqingyou?tab=repositories)**
 
 - 📝 I regularly write articles on
-[vccv.cc](https://vccv.cc)
+
+**[vccv.cc](https://vccv.cc)**
 
 - 📫 How to reach me
+
 **yueqingyou@gmail.com**
 
 - ⚡ Fun fact **Funny life**
