@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm yueqingyou</h1>
-<h3 align="center">Now a student studying programming from China</h3>
+<h3 align="center">Now a student studying programming in China</h3>
 
 - 🌱 I’m currently learning **Python, MatLab, Vue etc**
 
