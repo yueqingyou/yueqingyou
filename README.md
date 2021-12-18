@@ -3,9 +3,11 @@
 
 - 🌱 I’m currently learning **Python, MatLab, Vue etc**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yueqingyou?tab=repositories](https://github.com/yueqingyou?tab=repositories)
+- 👨‍💻 All of my projects are available at
+[yueqingyou's repositories](https://github.com/yueqingyou?tab=repositories)
 
-- 📝 I regularly write articles on [https://vccv.cc](vccv.cc)
+- 📝 I regularly write articles on
+[vccv.cc](https://vccv.cc)
 
 - 📫 How to reach me
 **yueqingyou@gmail.com**
