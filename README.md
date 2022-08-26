@@ -10,7 +10,7 @@
 **[vccv.cc](https://vccv.cc)**
 
 - 📫 How to reach me
-**yueqingyou@gmail.com**
+**yuesir@duck.com**
 
 - ⚡ Fun fact **Funny life**
 
