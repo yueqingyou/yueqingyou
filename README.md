@@ -1,7 +1,7 @@
 <h1 align="center">Hi, man 👋 I'm yuesir</h1>
 <h3 align="center">Now a student studying in China</h3>
 
-- 🌱 I’m currently learning **Python, MatLab, R** etc
+- 🌱 I’m currently learning **Python, R, Kotlin** etc
 
 - 👨‍💻 All of my projects are available at
 **[yueqingyou's repositories](https://github.com/yueqingyou?tab=repositories)**
