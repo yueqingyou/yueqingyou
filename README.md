@@ -7,7 +7,7 @@
 **[yueqingyou's repositories](https://github.com/yueqingyou?tab=repositories)**
 
 - 📝 I regularly write articles on
-**[vccv.cc](https://vccv.cc)**
+**[https://vccv.cc](https://vccv.cc)**
 
 - 📫 How to reach me
 **yueqingyou@gmail.com**
